@@ -37,7 +37,9 @@ function RealtimeData() {
   return (
     <div className="card">
       <div className="card-header">
-        <h5 className="card-title text-center">Green Guardian Monitoring</h5>
+        <h5 className="card-title text-center" style={{ fontSize: "3rem" }}>
+          Green Guardian Monitoring
+        </h5>
       </div>
       <div className="card-body">
         <table className="table-auto mx-auto">

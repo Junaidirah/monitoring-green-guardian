@@ -21,9 +21,7 @@ function ProfileCard() {
               <p className="py-2 border-b mx-8 mt-8 text-[#00df9a]">Junaidi</p>
               <p className="py-2 border-b mx-8 text-[#00df9a]">1104220015</p>
               <p className="py-2 border-b mx-8 text-[#00df9a]">TF4602</p>
-              <p className="py-2 border-b mx-8 text-[#00df9a]">
-                semua akan saya hadapi tapi dengan makan dulu
-              </p>
+              <p className="py-2 border-b mx-8 text-[#00df9a]">CaAs CPS</p>
             </div>
           </div>
           <div className="w-full shadow-xl flex flex-col p-4 my-4 rounded-lg bg-white hover:shadow-2xl transition duration-300">
@@ -34,11 +32,11 @@ function ProfileCard() {
             />
             <div className="text-center font-medium text-[#00df9a]">
               <p className="py-2 border-b mx-8 mt-8 text-[#00df9a]"> Dini</p>
-              <p className="py-2 border-b mx-8text-[#00df9a]">1101</p>
-              <p className="py-2 border-b mx-8text-[#00df9a]">TT</p>
+              <p className="py-2 border-b mx-8text-[#00df9a]">1101220112</p>
               <p className="py-2 border-b mx-8text-[#00df9a]">
-                suka mengajarkan ilmu
+                Teknik Telekomunikasi
               </p>
+              <p className="py-2 border-b mx-8text-[#00df9a]">CaAs CPS</p>
             </div>
           </div>
           <div className="w-full shadow-xl flex flex-col p-4 my-4 rounded-lg bg-white hover:shadow-2xl transition duration-300">
@@ -49,11 +47,11 @@ function ProfileCard() {
             />
             <div className="text-center font-medium">
               <p className="py-2 border-b mx-8 mt-8 text-[#00df9a]"> ilham</p>
-              <p className="py-2 border-b mx-8 text-[#00df9a]">1101</p>
-              <p className="py-2 border-b mx-8 text-[#00df9a]">TT</p>
+              <p className="py-2 border-b mx-8 text-[#00df9a]">1101220034</p>
               <p className="py-2 border-b mx-8 text-[#00df9a]">
-                Seorang mahasiswa yang senang untuk meng-eksplor
+                Teknik Telekomunikasi
               </p>
+              <p className="py-2 border-b mx-8 text-[#00df9a]">CaAs CPS</p>
             </div>
           </div>
         </div>
