@@ -5,13 +5,13 @@ import dini from "../components/asset/dini.jpg";
 
 function ProfileCard() {
   return (
-    <div className="text-[#00df9a] text-center  ">
-      <h1 className="text-md text-2xl md:text-4xl lg:text-5xl font-bold ">
+    <div className="text-[#00df9a] text-center">
+      <h1 className="text-md text-2xl md:text-4xl lg:text-5xl font-bold">
         OUR MEMBER
       </h1>
-      <div className="w-full py-[10rem] px-4 ">
-        <div className="max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8 ">
-          <div className="w-full shadow-xl flex flex-col p-4 my-4 rounded-lg   bg-white">
+      <div className="w-full py-[10rem] px-4">
+        <div className="max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8">
+          <div className="w-full shadow-xl flex flex-col p-4 my-4 rounded-lg bg-white hover:shadow-2xl transition duration-300">
             <img
               className="w-20 mx-auto mt-[-3rem] bg-white"
               src={juna}
@@ -26,7 +26,7 @@ function ProfileCard() {
               </p>
             </div>
           </div>
-          <div className="w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300 bg-white">
+          <div className="w-full shadow-xl flex flex-col p-4 my-4 rounded-lg bg-white hover:shadow-2xl transition duration-300">
             <img
               className="w-20 mx-auto mt-[-3rem] bg-black"
               src={dini}
@@ -41,7 +41,7 @@ function ProfileCard() {
               </p>
             </div>
           </div>
-          <div className="w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300 bg-white">
+          <div className="w-full shadow-xl flex flex-col p-4 my-4 rounded-lg bg-white hover:shadow-2xl transition duration-300">
             <img
               className="w-20 mx-auto mt-[-3rem] bg-white"
               src={ilham}
